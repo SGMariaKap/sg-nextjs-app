@@ -1,14 +1,6 @@
 {
-  "/_error": "pages/_error.js",
   "/_app": "pages/_app.js",
-  "/Controls": "pages/Controls.html",
-  "/Header": "pages/Header.html",
-  "/": "pages/index.html",
-  "/api/form": "pages/api/form.js",
-  "/js-form": "pages/js-form.html",
-  "/no-js-form": "pages/no-js-form.html",
-  "/api": "pages/api.js",
-  "/Login": "pages/Login.html",
+  "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/404": "pages/404.html"
+  "/": "pages/index.js"
 }
